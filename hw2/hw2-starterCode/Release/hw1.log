@@ -1,0 +1,51 @@
+﻿LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/OPT:ICF”规范)
+imageIO.obj : error LNK2019: 无法解析的外部符号 jpeg_std_error，该符号在函数 "public: enum ImageIO::errorType __cdecl ImageIO::loadJPEG(char const *)" (?loadJPEG@ImageIO@@QEAA?AW4errorType@1@PEBD@Z) 中被引用
+imageIO.obj : error LNK2019: 无法解析的外部符号 jpeg_CreateCompress，该符号在函数 "public: enum ImageIO::errorType __cdecl ImageIO::saveJPEGWithGivenQuality(char const *,int)" (?saveJPEGWithGivenQuality@ImageIO@@QEAA?AW4errorType@1@PEBDH@Z) 中被引用
+imageIO.obj : error LNK2019: 无法解析的外部符号 jpeg_CreateDecompress，该符号在函数 "public: enum ImageIO::errorType __cdecl ImageIO::loadJPEG(char const *)" (?loadJPEG@ImageIO@@QEAA?AW4errorType@1@PEBD@Z) 中被引用
+imageIO.obj : error LNK2019: 无法解析的外部符号 jpeg_destroy_compress，该符号在函数 "public: enum ImageIO::errorType __cdecl ImageIO::saveJPEGWithGivenQuality(char const *,int)" (?saveJPEGWithGivenQuality@ImageIO@@QEAA?AW4errorType@1@PEBDH@Z) 中被引用
+imageIO.obj : error LNK2019: 无法解析的外部符号 jpeg_destroy_decompress，该符号在函数 "public: enum ImageIO::errorType __cdecl ImageIO::loadJPEG(char const *)" (?loadJPEG@ImageIO@@QEAA?AW4errorType@1@PEBD@Z) 中被引用
+imageIO.obj : error LNK2019: 无法解析的外部符号 jpeg_stdio_dest，该符号在函数 "public: enum ImageIO::errorType __cdecl ImageIO::saveJPEGWithGivenQuality(char const *,int)" (?saveJPEGWithGivenQuality@ImageIO@@QEAA?AW4errorType@1@PEBDH@Z) 中被引用
+imageIO.obj : error LNK2019: 无法解析的外部符号 jpeg_stdio_src，该符号在函数 "public: enum ImageIO::errorType __cdecl ImageIO::loadJPEG(char const *)" (?loadJPEG@ImageIO@@QEAA?AW4errorType@1@PEBD@Z) 中被引用
+imageIO.obj : error LNK2019: 无法解析的外部符号 jpeg_set_defaults，该符号在函数 "public: enum ImageIO::errorType __cdecl ImageIO::saveJPEGWithGivenQuality(char const *,int)" (?saveJPEGWithGivenQuality@ImageIO@@QEAA?AW4errorType@1@PEBDH@Z) 中被引用
+imageIO.obj : error LNK2019: 无法解析的外部符号 jpeg_set_quality，该符号在函数 "public: enum ImageIO::errorType __cdecl ImageIO::saveJPEGWithGivenQuality(char const *,int)" (?saveJPEGWithGivenQuality@ImageIO@@QEAA?AW4errorType@1@PEBDH@Z) 中被引用
+imageIO.obj : error LNK2019: 无法解析的外部符号 jpeg_start_compress，该符号在函数 "public: enum ImageIO::errorType __cdecl ImageIO::saveJPEGWithGivenQuality(char const *,int)" (?saveJPEGWithGivenQuality@ImageIO@@QEAA?AW4errorType@1@PEBDH@Z) 中被引用
+imageIO.obj : error LNK2019: 无法解析的外部符号 jpeg_write_scanlines，该符号在函数 "public: enum ImageIO::errorType __cdecl ImageIO::saveJPEGWithGivenQuality(char const *,int)" (?saveJPEGWithGivenQuality@ImageIO@@QEAA?AW4errorType@1@PEBDH@Z) 中被引用
+imageIO.obj : error LNK2019: 无法解析的外部符号 jpeg_finish_compress，该符号在函数 "public: enum ImageIO::errorType __cdecl ImageIO::saveJPEGWithGivenQuality(char const *,int)" (?saveJPEGWithGivenQuality@ImageIO@@QEAA?AW4errorType@1@PEBDH@Z) 中被引用
+imageIO.obj : error LNK2019: 无法解析的外部符号 jpeg_read_header，该符号在函数 "public: enum ImageIO::errorType __cdecl ImageIO::loadJPEG(char const *)" (?loadJPEG@ImageIO@@QEAA?AW4errorType@1@PEBD@Z) 中被引用
+imageIO.obj : error LNK2019: 无法解析的外部符号 jpeg_start_decompress，该符号在函数 "public: enum ImageIO::errorType __cdecl ImageIO::loadJPEG(char const *)" (?loadJPEG@ImageIO@@QEAA?AW4errorType@1@PEBD@Z) 中被引用
+imageIO.obj : error LNK2019: 无法解析的外部符号 jpeg_read_scanlines，该符号在函数 "public: enum ImageIO::errorType __cdecl ImageIO::loadJPEG(char const *)" (?loadJPEG@ImageIO@@QEAA?AW4errorType@1@PEBD@Z) 中被引用
+imageIO.obj : error LNK2019: 无法解析的外部符号 jpeg_finish_decompress，该符号在函数 "public: enum ImageIO::errorType __cdecl ImageIO::loadJPEG(char const *)" (?loadJPEG@ImageIO@@QEAA?AW4errorType@1@PEBD@Z) 中被引用
+pipelineProgram.obj : error LNK2001: 无法解析的外部符号 __imp___glewAttachShader
+pipelineProgram.obj : error LNK2001: 无法解析的外部符号 __imp___glewCompileShader
+pipelineProgram.obj : error LNK2001: 无法解析的外部符号 __imp___glewCreateProgram
+pipelineProgram.obj : error LNK2001: 无法解析的外部符号 __imp___glewCreateShader
+pipelineProgram.obj : error LNK2001: 无法解析的外部符号 __imp___glewDeleteProgram
+pipelineProgram.obj : error LNK2001: 无法解析的外部符号 __imp___glewDeleteShader
+pipelineProgram.obj : error LNK2001: 无法解析的外部符号 __imp___glewGetProgramInfoLog
+pipelineProgram.obj : error LNK2001: 无法解析的外部符号 __imp___glewGetProgramiv
+pipelineProgram.obj : error LNK2001: 无法解析的外部符号 __imp___glewGetShaderInfoLog
+pipelineProgram.obj : error LNK2001: 无法解析的外部符号 __imp___glewGetShaderiv
+pipelineProgram.obj : error LNK2001: 无法解析的外部符号 __imp___glewGetUniformLocation
+pipelineProgram.obj : error LNK2001: 无法解析的外部符号 __imp___glewLinkProgram
+pipelineProgram.obj : error LNK2001: 无法解析的外部符号 __imp___glewShaderSource
+pipelineProgram.obj : error LNK2001: 无法解析的外部符号 __imp___glewUseProgram
+hw1.obj : error LNK2019: 无法解析的外部符号 __imp_glewInit，该符号在函数 main 中被引用
+hw1.obj : error LNK2019: 无法解析的外部符号 __imp_glewGetErrorString，该符号在函数 main 中被引用
+hw1.obj : error LNK2019: 无法解析的外部符号 __imp_glutInitWindowPosition，该符号在函数 main 中被引用
+hw1.obj : error LNK2019: 无法解析的外部符号 __imp_glutInitWindowSize，该符号在函数 main 中被引用
+hw1.obj : error LNK2019: 无法解析的外部符号 __imp_glutInitDisplayMode，该符号在函数 main 中被引用
+hw1.obj : error LNK2019: 无法解析的外部符号 __imp_glutMainLoop，该符号在函数 main 中被引用
+hw1.obj : error LNK2019: 无法解析的外部符号 __imp_glutPostRedisplay，该符号在函数 "void __cdecl idleFunc(void)" (?idleFunc@@YAXXZ) 中被引用
+hw1.obj : error LNK2019: 无法解析的外部符号 __imp_glutIdleFunc，该符号在函数 main 中被引用
+hw1.obj : error LNK2019: 无法解析的外部符号 __imp_glutKeyboardFunc，该符号在函数 main 中被引用
+hw1.obj : error LNK2019: 无法解析的外部符号 __imp_glutReshapeFunc，该符号在函数 main 中被引用
+hw1.obj : error LNK2019: 无法解析的外部符号 __imp_glutDisplayFunc，该符号在函数 main 中被引用
+hw1.obj : error LNK2019: 无法解析的外部符号 __imp_glutMouseFunc，该符号在函数 main 中被引用
+hw1.obj : error LNK2019: 无法解析的外部符号 __imp_glutMotionFunc，该符号在函数 main 中被引用
+hw1.obj : error LNK2019: 无法解析的外部符号 __imp_glutPassiveMotionFunc，该符号在函数 main 中被引用
+hw1.obj : error LNK2019: 无法解析的外部符号 __imp_glutGetModifiers，该符号在函数 "void __cdecl mouseButtonFunc(int,int,int,int)" (?mouseButtonFunc@@YAXHHHH@Z) 中被引用
+hw1.obj : error LNK2019: 无法解析的外部符号 __imp___glutInitWithExit，该符号在函数 main 中被引用
+hw1.obj : error LNK2019: 无法解析的外部符号 __imp___glutCreateWindowWithExit，该符号在函数 main 中被引用
+..\external\freeglut-3.0.0-win32\lib\Release\freeglut.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+..\external\glew-1.13.0\lib\Release\Win32\glew32.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+C:\Users\ASUS\Desktop\textbook\420\assign1_coreOpenGL_starterCode\hw1-starterCode\\Bin\Release\hw1.exe : fatal error LNK1120: 47 个无法解析的外部命令

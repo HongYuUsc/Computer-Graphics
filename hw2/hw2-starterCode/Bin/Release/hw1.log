@@ -1,0 +1,32 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (C:\Users\ASUS\Desktop\textbook\420\hw2-starterCode\hw2-starterCode\\Bin\Release\) contains files shared from another project (hw1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  hw2.cpp
+c:\users\asus\desktop\textbook\420\hw2-startercode\hw2-startercode\hw2.cpp(100): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\asus\desktop\textbook\420\hw2-startercode\hw2-startercode\hw2.cpp(367): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\asus\desktop\textbook\420\hw2-startercode\hw2-startercode\hw2.cpp(367): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\asus\desktop\textbook\420\hw2-startercode\hw2-startercode\hw2.cpp(368): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\asus\desktop\textbook\420\hw2-startercode\hw2-startercode\hw2.cpp(368): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\asus\desktop\textbook\420\hw2-startercode\hw2-startercode\hw2.cpp(370): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\asus\desktop\textbook\420\hw2-startercode\hw2-startercode\hw2.cpp(370): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\asus\desktop\textbook\420\hw2-startercode\hw2-startercode\hw2.cpp(371): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\asus\desktop\textbook\420\hw2-startercode\hw2-startercode\hw2.cpp(371): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\asus\desktop\textbook\420\hw2-startercode\hw2-startercode\hw2.cpp(472): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\asus\desktop\textbook\420\hw2-startercode\hw2-startercode\hw2.cpp(472): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\textbook\420\hw2-startercode\hw2-startercode\hw2.cpp(606): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\desktop\textbook\420\hw2-startercode\hw2-startercode\hw2.cpp(615): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\textbook\420\hw2-startercode\hw2-startercode\hw2.cpp(616): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\textbook\420\hw2-startercode\hw2-startercode\hw2.cpp(617): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\textbook\420\hw2-startercode\hw2-startercode\hw2.cpp(707): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\asus\desktop\textbook\420\hw2-startercode\hw2-startercode\hw2.cpp(722): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\textbook\420\hw2-startercode\hw2-startercode\hw2.cpp(723): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\textbook\420\hw2-startercode\hw2-startercode\hw2.cpp(724): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\textbook\420\hw2-startercode\hw2-startercode\hw2.cpp(739): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\textbook\420\hw2-startercode\hw2-startercode\hw2.cpp(740): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\textbook\420\hw2-startercode\hw2-startercode\hw2.cpp(741): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\textbook\420\hw2-startercode\hw2-startercode\hw2.cpp(803): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\asus\desktop\textbook\420\hw2-startercode\hw2-startercode\hw2.cpp(803): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+  jpeg.lib(jerror.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+  Generating code
+  Finished generating code
+  hw1.vcxproj -> C:\Users\ASUS\Desktop\textbook\420\hw2-starterCode\hw2-starterCode\\Bin\Release\hw2.exe
